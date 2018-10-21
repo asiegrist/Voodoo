@@ -1,0 +1,5 @@
+export const API_URL = 'http://mock-api.voodoo.io/'
+export const MONETIZATION_ENDPOINT = 'monetization'
+export const MONETIZATION_KEY = 'mwNNiwFuJ30GqpuYwQHSW0XQx93E2rIS7NRSfxwLz4XI5Yoo5aSP8wvyibhVO8aYeaVLYsCJcFP9V0uzo95ph66qktQwE'
+export const ACQUISITION_ENDPOINT = 'acquisition'
+export const ACQUISITION_KEY = '31I4HHdML8AH30OQCqbuRswzFcvhigvs3f15UQqc6VuOnTNzKYJosB43I5vE2o2SmwNYhh7oCS5X1XUJjhDzlnX9RugHJ'
